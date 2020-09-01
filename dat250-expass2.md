@@ -1,1 +1,0 @@
-I wasn't able to connect by just following the guide linked in the assignment. The problem was that the newest version of the program need some additional jars, not just the derby.jar, but also the derbyshared.jar and derbytools.jar 
